@@ -1,0 +1,5 @@
+ali,451,p1
+hamad,46851651,laptop4
+Yassin,222351072,PC001
+Yassi,222351073,001jo,1010,pc123
+yassin,222351072,lm
